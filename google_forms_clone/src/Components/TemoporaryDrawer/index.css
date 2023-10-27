@@ -1,0 +1,16 @@
+.side-bar-option-text{
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: grey;
+}
+
+.margin-top{
+    margin-top: 10px;
+}
+
+.list-item:hover{
+    background-color: #f4f4f9;
+    border-radius: 0 20px 20px 0px;
+    color: #000;
+}

@@ -1,0 +1,23 @@
+.main-tab-con{
+    flex-grow: 1;
+}
+
+.tab{
+    font-size: 17px;
+    color: #5f6368;
+    text-transform: capitalize;
+    height: 10;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 200px;
+
+
+}
+
+.tabs{
+    height: 10;
+}
+
+.panel{
+    padding: 0px;
+}
